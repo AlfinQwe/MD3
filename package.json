@@ -18,8 +18,8 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Dika Ardnt.",
-  "license": "MIT",
+  "author": "Mukhammad Alfin Hidayatulloh.",
+  "license": "QWE",
   "dependencies": {
     "@adiwajshing/baileys": "^4.2.0",
     "@adiwajshing/keyed-db": "^0.2.4",
